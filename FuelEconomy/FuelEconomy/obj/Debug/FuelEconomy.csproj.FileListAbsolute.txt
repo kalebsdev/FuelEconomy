@@ -1,0 +1,6 @@
+/Users/k/Desktop/C#_2/FuelEconomy/FuelEconomy/bin/Debug/FuelEconomy.dll
+/Users/k/Desktop/C#_2/FuelEconomy/FuelEconomy/bin/Debug/FuelEconomy.pdb
+/Users/k/Desktop/C#_2/FuelEconomy/FuelEconomy/obj/Debug/FuelEconomy.csprojAssemblyReference.cache
+/Users/k/Desktop/C#_2/FuelEconomy/FuelEconomy/obj/Debug/FuelEconomy.csproj.CoreCompileInputs.cache
+/Users/k/Desktop/C#_2/FuelEconomy/FuelEconomy/obj/Debug/FuelEconomy.dll
+/Users/k/Desktop/C#_2/FuelEconomy/FuelEconomy/obj/Debug/FuelEconomy.pdb
